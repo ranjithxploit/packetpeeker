@@ -7,4 +7,4 @@ python packetpeek.py
 
 errors and recommendations:
 
-please create an virtual environment before installing the packages from requ.txt using "python -m venv venv" and activate it using "    venv\Scripts\activate" , of if any error occours or using powershell , sign the remote execution policy isng "     Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser" and you're gtg!!
+please create an virtual environment before installing the packages from requ.txt using "python -m venv venv" and activate it using "venv\Scripts\activate" and then install the packages uging "pip install -r requirements.txt" , of if any error occours or using powershell , sign the remote execution policy isng "     Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser" and you're gtg!!
