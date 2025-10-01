@@ -1,0 +1,2 @@
+PacketPeek is a lightweight - desktop packet sniffer written in Python + PyQt5.
+It captures network traffic lively and highlights HTTP packets, and logs everything neatly into a CSV file and an text file and with user interface.
